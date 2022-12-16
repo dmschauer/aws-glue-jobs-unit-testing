@@ -1,3 +1,5 @@
+URL: https://aws.amazon.com/blogs/devops/how-to-unit-test-and-deploy-aws-glue-jobs-using-aws-codepipeline/
+
 # aws-glue-jobs-unit-testing
 
 This demo illustrates the execution of PyTest unit test cases for AWS Glue jobs in AWS CodePipeline using AWS CodeBuild projects. The solution involves using the container image in Public ECR gallery as the runtime environment for executing the test case in AWS CodeBuild project. The [aws-glue-libs](https://gallery.ecr.aws/amazon/aws-glue-libs) Public ECR repository contains image for all version of AWS Glue.
